@@ -25,8 +25,5 @@ This project predicts cardiovascular disease using a quantum-inspired machine le
 - `cvd_publication_ready_dataset.csv`
 - `requirements.txt`
 
-## 📄 Research Paper
-Included in repository
-
 ## 👩‍💻 Author
 Avantika Gupta
